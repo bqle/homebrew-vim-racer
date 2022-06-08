@@ -6,6 +6,6 @@ class VimRacer < Formula
 	version "0.1.0"
 	
 	def install
-		bin install "out"
+		bin.install "out"
 	end
 end
