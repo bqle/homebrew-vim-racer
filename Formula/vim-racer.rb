@@ -1,4 +1,4 @@
-class VimRacer<
+class VimRacer < Formula
 	desc "CLI for practicing Vim"
 	homepage "https://github.com/bqle/vim-racer"
 	url "https://github.com/bqle/vim-racer/releases/download/v0.1.0/vim-racer.tar.gz"
